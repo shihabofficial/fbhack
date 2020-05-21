@@ -15,8 +15,8 @@ apt install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/pacman.git
+git https://github.com/shihabofficial/fbhack.git
 
-cd pacman
+cd silentkiller
 
-python2 bolt
+python2 code
