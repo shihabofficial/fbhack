@@ -17,6 +17,6 @@ pip2 install requests mechanize
 
 git https://github.com/shihabofficial/fbhack.git
 
-cd silentkiller
+cd fbhack
 
 python2 code
